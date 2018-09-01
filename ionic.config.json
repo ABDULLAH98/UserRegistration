@@ -1,0 +1,8 @@
+{
+  "name": "UserRegistration",
+  "app_id": "89473cd0",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
